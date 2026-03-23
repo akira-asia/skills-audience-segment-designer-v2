@@ -1,1 +1,1 @@
-../../../../library/reference-md/audience-segment-designer/meta-ads-audience-settings.md
+../../../library/reference-md/audience-segment-designer/meta-ads-audience-settings.md
