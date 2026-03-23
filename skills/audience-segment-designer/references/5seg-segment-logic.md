@@ -1,1 +1,1 @@
-../../5seg-segment-logic.md
+../../../../library/reference-md/audience-segment-designer/5seg-segment-logic.md

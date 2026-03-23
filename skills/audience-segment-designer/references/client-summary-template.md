@@ -1,1 +1,1 @@
-../../client-summary-template.md
+../../../../library/reference-md/audience-segment-designer/client-summary-template.md
