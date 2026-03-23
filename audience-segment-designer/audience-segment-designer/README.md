@@ -15,7 +15,7 @@ audience-segment-designer/
 ├── README.md                          ← このファイル
 ├── SKILL.md                           ← Skill本体（必須）
 └── references/
-    ├── bm-segment-axis-map.md         ← BM型×推奨セグメント軸マッピング（STEP2-0で参照）
+    ├── bm-segment-axis-map.md         ← ビジネスモデル型×推奨セグメント軸マッピング（STEP2-0で参照）
     ├── 5seg-segment-logic.md          ← 5seg別セグメント設計ロジック（STEP2-1で参照）
     ├── client-summary-template.md     ← ブリーフの記述要素の参考（STEP3で参照）
     ├── google-ads-audience-settings.md← Google広告オーディエンスリファレンス（STEP4で参照）
