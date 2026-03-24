@@ -1,1 +1,1 @@
-../../google-ads-audience-settings.md
+../../../library/reference-md/audience-segment-designer/google-ads-audience-settings.md

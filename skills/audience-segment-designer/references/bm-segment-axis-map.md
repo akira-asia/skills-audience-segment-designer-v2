@@ -1,1 +1,1 @@
-../../bm-segment-axis-map.md
+../../../library/reference-md/audience-segment-designer/bm-segment-axis-map.md
